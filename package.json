@@ -1,4 +1,8 @@
 {
+  "homepage": "https://m-riz-wan.github.io/website01",
+  ...
+}
+{
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
